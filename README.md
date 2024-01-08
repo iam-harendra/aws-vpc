@@ -75,6 +75,43 @@ create the bastion host
 ![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/5a32e7be-232a-4f29-adcb-caac4e5e18f9)
 ![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/ffbe4b01-cb9c-4ffe-8495-add381656e11)
 
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/6e994b61-1a8a-4bcc-ac42-38f70449a8bc)
+create 
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/555157fa-1407-477f-bfd3-2956371fde2d)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/a65e705a-0b4f-41a3-bc6b-15e842bdc325)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/4592a1b0-17a5-474e-9f3e-f29184d02277)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/85b15205-bbb5-4ccf-9734-7d261b476a2b)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/17006bff-ab87-4c7a-a041-88af324eedd4)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/c728d6e3-137e-4680-9250-aa77927713f3)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/58f0aad2-c426-4d98-be89-fbeed6f5316a)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/f0e59165-8be9-4c24-be5f-fef762ae8fa2)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/1f14aa67-7c41-4fae-a98d-73e1a55ed696)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/b0dfe435-0ee3-4d3f-8507-b31ece78a6f0)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/2562a7f4-c9c5-4144-bd1f-e13624220f7b)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/9b487df9-7fdb-43bb-8d50-1833bb5184a3)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/b8fc10f2-83b6-4af9-be03-e308c2a11115)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/ab05dbcc-9cad-43af-9555-bab9d0c10b08)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/9841de0b-28fd-46e2-9bd2-5ef6318cdb49)
+![image](https://github.com/iam-harendra/aws-vpc/assets/96298529/707af516-766c-42f5-a5e2-1a7683e8a6e2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
